@@ -1,0 +1,17 @@
+﻿Product1 UserStory1 A few text of FIRST UserStory FIRST Product
+Product1 UserStory2 A few text of SECOND UserStory FIRST Product
+Product2 UserStory1 A few text of FIRST UserStory SECOND Product
+Product2 UserStory2 A few text of FIRST UserStory SECOND Product
+Product2 UserStory3 A few text of FIRST UserStory SECOND Product
+END
+Product1 Gag.txt 231KB
+Product2 Hip.gid 100KB
+Product1 Oops.doc 120KB
+END
+Product2 First line of multi-line text for SECOND product
+Second line of multi-line text for SECOND product
+Third line of multi-line text for SECOND product//
+Product1 First line of multi-line text for FIRST product
+Second line of multi-line text for FIRST product
+Third line of multi-line text for FIRST product//
+END

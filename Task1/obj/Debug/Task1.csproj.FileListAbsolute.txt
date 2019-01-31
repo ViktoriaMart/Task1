@@ -1,0 +1,14 @@
+c:\users\богдан\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+c:\users\богдан\source\repos\Task1\Task1\bin\Debug\Task1.exe
+c:\users\богдан\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+c:\users\богдан\source\repos\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\богдан\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+c:\users\богдан\source\repos\Task1\Task1\obj\Debug\Task1.exe
+c:\users\богдан\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\bin\Debug\Task1.exe.config
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\bin\Debug\Task1.exe
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\bin\Debug\Task1.pdb
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\obj\Debug\Task1.exe
+C:\Users\Богдан\Desktop\1.5к\1завдання\Task1\obj\Debug\Task1.pdb
